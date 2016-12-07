@@ -2,7 +2,11 @@
 # coding: utf-8
 
 # In[ ]:
-
+#Prints the rules *needs more time*
+print "S = ship"
+print "H = hint"
+print "M = miss"
+print "O = no information"
 #Makes the board
 player1_board = []
 fill_board = 10
